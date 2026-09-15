@@ -1,0 +1,228 @@
+Pair 	Exposure category 	Outcome category 	N SNPs 	P > 0.05 in any LOO? 	Nonzero in DCE? 	Sig. methods
+IDP T1 FAST ROIs L ventral striatum → ANX 	regional and tissue volume 	internalizing 	15 	Yes 	Yes 	4 / 6
+IDP T1 FAST ROIs L ventral striatum → CUD 	regional and tissue volume 	substance use 	15 	Yes 	Yes 	4 / 6
+IDP T1 FAST ROIs L ventral striatum → MDD 	regional and tissue volume 	internalizing 	15 	No 	Yes 	3 / 6
+IDP T1 FAST ROIs L ventral striatum → PTSD 	regional and tissue volume 	internalizing 	15 	No 	Yes 	4 / 6
+IDP T1 FAST ROIs L ventral striatum → TUD 	regional and tissue volume 	substance use 	15 	Yes 	Yes 	4 / 6
+IDP T1 FAST ROIs R ventral striatum → CUD 	regional and tissue volume 	substance use 	10 	Yes 	Yes 	4 / 6
+IDP T1 FAST ROIs R ventral striatum → MDD 	regional and tissue volume 	internalizing 	10 	No 	Yes 	3 / 6
+IDP T1 FAST ROIs L cerebellum crus I → ADHD 	regional and tissue volume 	neurodevelopmental 	15 	n.s. 	No 	2 / 6
+IDP T1 FAST ROIs R cerebellum crus I → ANX 	regional and tissue volume 	internalizing 	20 	No 	Yes 	3 / 6
+IDP T1 FAST ROIs R cerebellum crus I → CUD 	regional and tissue volume 	substance use 	20 	n.s. 	No 	1 / 6
+IDP T1 FAST ROIs L cerebellum crus II → ADHD 	regional and tissue volume 	neurodevelopmental 	16 	n.s. 	No 	2 / 6
+IDP T1 FAST ROIs L cerebellum crus II → AUD 	regional and tissue volume 	substance use 	16 	n.s. 	Yes 	2 / 6
+IDP T1 FAST ROIs R cerebellum crus II → AUD 	regional and tissue volume 	substance use 	21 	Yes 	Yes 	3 / 6
+IDP T1 FAST ROIs R cerebellum crus II → CUD 	regional and tissue volume 	substance use 	21 	No 	Yes 	3 / 6
+IDP T1 FAST ROIs R cerebellum VIIb → CUD 	regional and tissue volume 	substance use 	13 	n.s. 	No 	3 / 6
+IDP T1 FAST ROIs L cerebellum VIIIa → BD 	regional and tissue volume 	bd/scz 	14 	n.s. 	No 	1 / 6
+IDP T1 FAST ROIs V cerebellum VIIIa → SCZ 	regional and tissue volume 	bd/scz 	15 	n.s. 	No 	2 / 6
+IDP T1 FAST ROIs R cerebellum VIIIa → CUD 	regional and tissue volume 	substance use 	12 	No 	No 	3 / 6
+IDP T1 FAST ROIs V cerebellum VIIIb → TUD 	regional and tissue volume 	substance use 	14 	Yes 	Yes 	3 / 6
+IDP T1 FAST ROIs L cerebellum IX → CUD 	regional and tissue volume 	substance use 	12 	Yes 	No 	3 / 6
+IDP T1 FAST ROIs L cerebellum IX → TUD 	regional and tissue volume 	substance use 	12 	Yes 	Yes 	3 / 6
+aseg global volume VentricleChoroid → ADHD 	regional and tissue volume 	neurodevelopmental 	10 	n.s. 	No 	2 / 6
+aseg global volume VentricleChoroid → SCZ 	regional and tissue volume 	bd/scz 	10 	No 	Yes 	3 / 6
+aseg global volume 3rd-Ventricle → ADHD 	regional and tissue volume 	neurodevelopmental 	11 	n.s. 	No 	1 / 6
+aseg global volume CC-Posterior → CUD 	regional and tissue volume 	substance use 	12 	No 	No 	3 / 6
+aseg lh volume Lateral-Ventricle → ADHD 	regional and tissue volume 	neurodevelopmental 	10 	n.s. 	No 	2 / 6
+aseg lh volume Lateral-Ventricle → SCZ 	regional and tissue volume 	bd/scz 	10 	No 	No 	3 / 6
+aseg rh volume Putamen → AUD 	regional and tissue volume 	substance use 	14 	n.s. 	Yes 	1 / 6
+aseg rh volume Putamen → CUD 	regional and tissue volume 	substance use 	14 	n.s. 	No 	1 / 6
+AmygNuclei rh volume Lateral-nucleus → SCZ 	regional and tissue volume 	bd/scz 	10 	No 	No 	3 / 6
+HippSubfield lh volume Whole-hippocampal-body → ADHD 	regional and tissue volume 	neurodevelopmental 	12 	n.s. 	No 	1 / 6
+HippSubfield lh volume Whole-hippocampal-body → ANX 	regional and tissue volume 	internalizing 	12 	n.s. 	Yes 	2 / 6
+HippSubfield lh volume Whole-hippocampal-body → PTSD 	regional and tissue volume 	internalizing 	12 	n.s. 	Yes 	1 / 6
+HippSubfield lh volume Whole-hippocampus → ADHD 	regional and tissue volume 	neurodevelopmental 	10 	n.s. 	No 	1 / 6
+HippSubfield lh volume Whole-hippocampus → PTSD 	regional and tissue volume 	internalizing 	10 	n.s. 	Yes 	1 / 6
+HippSubfield rh volume CA4-body → ADHD 	regional and tissue volume 	neurodevelopmental 	11 	n.s. 	No 	1 / 6
+Brainstem global volume Medulla → ANX 	regional and tissue volume 	internalizing 	11 	n.s. 	No 	2 / 6
+Brainstem global volume Medulla → SCZ 	regional and tissue volume 	bd/scz 	11 	Yes 	Yes 	3 / 6
+Brainstem global volume Pons → SCZ 	regional and tissue volume 	bd/scz 	29 	Yes 	Yes 	3 / 6
+Brainstem global volume Whole-brainstem → SCZ 	regional and tissue volume 	bd/scz 	24 	n.s. 	Yes 	2 / 6
+aparc-DKTatlas rh volume cuneus → SCZ 	regional and tissue volume 	bd/scz 	11 	No 	Yes 	4 / 6
+aparc-DKTatlas rh volume pericalcarine → SCZ 	regional and tissue volume 	bd/scz 	18 	n.s. 	Yes 	2 / 6
+aparc-DKTatlas lh area lingual → SCZ 	cortical area 	bd/scz 	14 	Yes 	No 	2 / 6
+aparc-DKTatlas lh area lingual → TUD 	cortical area 	substance use 	14 	No 	Yes 	3 / 6
+aparc-DKTatlas rh area cuneus → SCZ 	cortical area 	bd/scz 	12 	Yes 	No 	4 / 6
+aparc-DKTatlas rh area cuneus → TUD 	cortical area 	substance use 	12 	No 	Yes 	3 / 6
+aparc-DKTatlas rh area lingual → SCZ 	cortical area 	bd/scz 	11 	No 	Yes 	3 / 6
+aparc-DKTatlas rh area pericalcarine → SCZ 	cortical area 	bd/scz 	22 	n.s. 	Yes 	3 / 6
+aseg lh intensity Putamen → CUD 	regional and tissue intensity 	substance use 	13 	Yes 	Yes 	4 / 6
+aseg lh intensity Putamen → TUD 	regional and tissue intensity 	substance use 	13 	Yes 	Yes 	4 / 6
+aseg rh intensity Caudate → ANX 	regional and tissue intensity 	internalizing 	12 	n.s. 	Yes 	2 / 6
+aseg rh intensity Caudate → BD 	regional and tissue intensity 	bd/scz 	12 	Yes 	No 	3 / 6
+aseg rh intensity Putamen → MDD 	regional and tissue intensity 	internalizing 	17 	Yes 	Yes 	3 / 6
+aseg rh intensity Pallidum → TUD 	regional and tissue intensity 	substance use 	11 	Yes 	Yes 	4 / 6
+aseg rh intensity Accumbens-area → CUD 	regional and tissue intensity 	substance use 	15 	Yes 	Yes 	4 / 6
+aseg rh intensity Accumbens-area → MDD 	regional and tissue intensity 	internalizing 	15 	No 	Yes 	3 / 6
+wg lh intensity-contrast bankssts → AUD 	cortical grey-white contrast 	substance use 	11 	No 	Yes 	3 / 6
+wg lh intensity-contrast caudalmiddlefrontal → ANX 	cortical grey-white contrast 	internalizing 	17 	n.s. 	Yes 	1 / 6
+wg lh intensity-contrast caudalmiddlefrontal → AUD 	cortical grey-white contrast 	substance use 	17 	No 	Yes 	4 / 6
+wg lh intensity-contrast cuneus → MDD 	cortical grey-white contrast 	internalizing 	13 	Yes 	Yes 	2 / 6
+wg lh intensity-contrast fusiform → AUD 	cortical grey-white contrast 	substance use 	30 	No 	Yes 	4 / 6
+wg lh intensity-contrast fusiform → CUD 	cortical grey-white contrast 	substance use 	30 	n.s. 	Yes 	1 / 6
+wg lh intensity-contrast fusiform → MDD 	cortical grey-white contrast 	internalizing 	30 	No 	Yes 	4 / 6
+wg lh intensity-contrast inferiorparietal → MDD 	cortical grey-white contrast 	internalizing 	23 	n.s. 	Yes 	1 / 6
+wg lh intensity-contrast inferiortemporal → AUD 	cortical grey-white contrast 	substance use 	22 	No 	Yes 	3 / 6
+wg lh intensity-contrast inferiortemporal → MDD 	cortical grey-white contrast 	internalizing 	22 	n.s. 	Yes 	2 / 6
+wg lh intensity-contrast isthmuscingulate → ANX 	cortical grey-white contrast 	internalizing 	19 	n.s. 	Yes 	2 / 6
+wg lh intensity-contrast isthmuscingulate → CUD 	cortical grey-white contrast 	substance use 	19 	n.s. 	No 	1 / 6
+wg lh intensity-contrast isthmuscingulate → MDD 	cortical grey-white contrast 	internalizing 	19 	n.s. 	Yes 	2 / 6
+wg lh intensity-contrast lateraloccipital → MDD 	cortical grey-white contrast 	internalizing 	25 	n.s. 	Yes 	2 / 6
+wg lh intensity-contrast lateralorbitofrontal → AUD 	cortical grey-white contrast 	substance use 	24 	Yes 	Yes 	2 / 6
+wg lh intensity-contrast lateralorbitofrontal → MDD 	cortical grey-white contrast 	internalizing 	24 	n.s. 	Yes 	1 / 6
+wg lh intensity-contrast medialorbitofrontal → MDD 	cortical grey-white contrast 	internalizing 	17 	n.s. 	Yes 	1 / 6
+wg lh intensity-contrast medialorbitofrontal → TUD 	cortical grey-white contrast 	substance use 	17 	n.s. 	Yes 	2 / 6
+wg lh intensity-contrast middletemporal → AUD 	cortical grey-white contrast 	substance use 	23 	No 	Yes 	3 / 6
+wg lh intensity-contrast middletemporal → MDD 	cortical grey-white contrast 	internalizing 	23 	No 	Yes 	3 / 6
+wg lh intensity-contrast parahippocampal → AUD 	cortical grey-white contrast 	substance use 	13 	No 	Yes 	4 / 6
+wg lh intensity-contrast parsopercularis → AUD 	cortical grey-white contrast 	substance use 	20 	No 	Yes 	4 / 6
+wg lh intensity-contrast parstriangularis → AUD 	cortical grey-white contrast 	substance use 	15 	Yes 	Yes 	3 / 6
+wg lh intensity-contrast posteriorcingulate → MDD 	cortical grey-white contrast 	internalizing 	17 	n.s. 	Yes 	1 / 6
+wg lh intensity-contrast precuneus → AUD 	cortical grey-white contrast 	substance use 	26 	No 	Yes 	4 / 6
+wg lh intensity-contrast rostralanteriorcingulate → AUD 	cortical grey-white contrast 	substance use 	12 	n.s. 	Yes 	2 / 6
+wg lh intensity-contrast rostralmiddlefrontal → AUD 	cortical grey-white contrast 	substance use 	26 	Yes 	Yes 	2 / 6
+wg lh intensity-contrast superiorfrontal → MDD 	cortical grey-white contrast 	internalizing 	26 	No 	Yes 	3 / 6
+wg lh intensity-contrast superiorparietal → AUD 	cortical grey-white contrast 	substance use 	23 	Yes 	Yes 	4 / 6
+wg lh intensity-contrast superiorparietal → MDD 	cortical grey-white contrast 	internalizing 	23 	n.s. 	Yes 	1 / 6
+wg lh intensity-contrast superiortemporal → AUD 	cortical grey-white contrast 	substance use 	26 	No 	Yes 	3 / 6
+wg lh intensity-contrast supramarginal → AUD 	cortical grey-white contrast 	substance use 	23 	No 	Yes 	5 / 6
+wg lh intensity-contrast insula → AUD 	cortical grey-white contrast 	substance use 	21 	n.s. 	No 	3 / 6
+wg rh intensity-contrast bankssts → AUD 	cortical grey-white contrast 	substance use 	19 	No 	Yes 	5 / 6
+wg rh intensity-contrast bankssts → CUD 	cortical grey-white contrast 	substance use 	19 	n.s. 	No 	1 / 6
+wg rh intensity-contrast caudalmiddlefrontal → ANX 	cortical grey-white contrast 	internalizing 	17 	n.s. 	Yes 	1 / 6
+wg rh intensity-contrast caudalmiddlefrontal → MDD 	cortical grey-white contrast 	internalizing 	17 	n.s. 	Yes 	3 / 6
+wg rh intensity-contrast fusiform → AUD 	cortical grey-white contrast 	substance use 	28 	No 	Yes 	5 / 6
+wg rh intensity-contrast fusiform → BD 	cortical grey-white contrast 	bd/scz 	28 	n.s. 	Yes 	1 / 6
+wg rh intensity-contrast fusiform → MDD 	cortical grey-white contrast 	internalizing 	28 	n.s. 	Yes 	1 / 6
+wg rh intensity-contrast inferiorparietal → AUD 	cortical grey-white contrast 	substance use 	25 	No 	Yes 	3 / 6
+wg rh intensity-contrast inferiorparietal → MDD 	cortical grey-white contrast 	internalizing 	25 	Yes 	Yes 	3 / 6
+wg rh intensity-contrast inferiortemporal → AUD 	cortical grey-white contrast 	substance use 	30 	No 	Yes 	3 / 6
+wg rh intensity-contrast inferiortemporal → CUD 	cortical grey-white contrast 	substance use 	30 	n.s. 	No 	1 / 6
+wg rh intensity-contrast inferiortemporal → MDD 	cortical grey-white contrast 	internalizing 	30 	n.s. 	Yes 	1 / 6
+wg rh intensity-contrast isthmuscingulate → AUD 	cortical grey-white contrast 	substance use 	16 	Yes 	Yes 	4 / 6
+wg rh intensity-contrast isthmuscingulate → TUD 	cortical grey-white contrast 	substance use 	16 	Yes 	Yes 	2 / 6
+wg rh intensity-contrast lateralorbitofrontal → AUD 	cortical grey-white contrast 	substance use 	20 	No 	Yes 	3 / 6
+wg rh intensity-contrast medialorbitofrontal → AUD 	cortical grey-white contrast 	substance use 	16 	No 	Yes 	3 / 6
+wg rh intensity-contrast middletemporal → AUD 	cortical grey-white contrast 	substance use 	26 	No 	Yes 	3 / 6
+wg rh intensity-contrast parahippocampal → ANX 	cortical grey-white contrast 	internalizing 	13 	n.s. 	No 	1 / 6
+wg rh intensity-contrast parahippocampal → AUD 	cortical grey-white contrast 	substance use 	13 	No 	Yes 	4 / 6
+wg rh intensity-contrast parahippocampal → MDD 	cortical grey-white contrast 	internalizing 	13 	n.s. 	Yes 	2 / 6
+wg rh intensity-contrast paracentral → TUD 	cortical grey-white contrast 	substance use 	10 	Yes 	Yes 	3 / 6
+wg rh intensity-contrast parsopercularis → AUD 	cortical grey-white contrast 	substance use 	21 	n.s. 	Yes 	2 / 6
+wg rh intensity-contrast parsopercularis → MDD 	cortical grey-white contrast 	internalizing 	21 	n.s. 	Yes 	1 / 6
+wg rh intensity-contrast parstriangularis → AUD 	cortical grey-white contrast 	substance use 	20 	No 	Yes 	3 / 6
+wg rh intensity-contrast posteriorcingulate → AUD 	cortical grey-white contrast 	substance use 	18 	n.s. 	Yes 	3 / 6
+wg rh intensity-contrast precentral → AUD 	cortical grey-white contrast 	substance use 	13 	No 	Yes 	5 / 6
+wg rh intensity-contrast precuneus → AUD 	cortical grey-white contrast 	substance use 	27 	No 	Yes 	5 / 6
+wg rh intensity-contrast precuneus → CUD 	cortical grey-white contrast 	substance use 	27 	n.s. 	Yes 	2 / 6
+wg rh intensity-contrast precuneus → MDD 	cortical grey-white contrast 	internalizing 	27 	n.s. 	Yes 	1 / 6
+wg rh intensity-contrast rostralmiddlefrontal → AUD 	cortical grey-white contrast 	substance use 	27 	No 	Yes 	3 / 6
+wg rh intensity-contrast superiorfrontal → AUD 	cortical grey-white contrast 	substance use 	24 	Yes 	Yes 	3 / 6
+wg rh intensity-contrast superiorfrontal → MDD 	cortical grey-white contrast 	internalizing 	24 	n.s. 	Yes 	1 / 6
+wg rh intensity-contrast superiorparietal → AUD 	cortical grey-white contrast 	substance use 	25 	n.s. 	Yes 	3 / 6
+wg rh intensity-contrast superiorparietal → MDD 	cortical grey-white contrast 	internalizing 	25 	n.s. 	Yes 	2 / 6
+wg rh intensity-contrast superiortemporal → AUD 	cortical grey-white contrast 	substance use 	29 	No 	Yes 	4 / 6
+wg rh intensity-contrast supramarginal → AUD 	cortical grey-white contrast 	substance use 	26 	No 	Yes 	4 / 6
+wg rh intensity-contrast supramarginal → MDD 	cortical grey-white contrast 	internalizing 	26 	n.s. 	Yes 	1 / 6
+wg rh intensity-contrast frontalpole → AUD 	cortical grey-white contrast 	substance use 	14 	No 	Yes 	3 / 6
+wg rh intensity-contrast insula → AUD 	cortical grey-white contrast 	substance use 	12 	No 	Yes 	4 / 6
+IDP dMRI TBSS FA Splenium of corpus callosum → AUD 	WM tract FA 	substance use 	13 	n.s. 	Yes 	2 / 6
+IDP dMRI TBSS FA Superior cerebellar peduncle R → SCZ 	WM tract FA 	bd/scz 	10 	Yes 	No 	3 / 6
+IDP dMRI TBSS FA Posterior limb of internal capsule R → PTSD 	WM tract FA 	internalizing 	11 	No 	Yes 	2 / 6
+IDP dMRI TBSS FA Posterior limb of internal capsule R → SCZ 	WM tract FA 	bd/scz 	11 	n.s. 	No 	4 / 6
+IDP dMRI ProbtrackX FA fmi → AUD 	WM tract FA 	substance use 	14 	n.s. 	Yes 	2 / 6
+IDP dMRI ProbtrackX FA fmi → MDD 	WM tract FA 	internalizing 	14 	n.s. 	Yes 	1 / 6
+IDP dMRI ProbtrackX MO str l → MDD 	WM tract MO 	internalizing 	12 	No 	Yes 	2 / 6
+IDP dMRI ProbtrackX MO str l → PTSD 	WM tract MO 	internalizing 	12 	Yes 	Yes 	2 / 6
+IDP dMRI TBSS MD Anterior limb of internal capsule L → PTSD 	WM tract diffusivity 	internalizing 	11 	No 	Yes 	3 / 6
+IDP dMRI TBSS MD Anterior corona radiata R → AUD 	WM tract diffusivity 	substance use 	10 	Yes 	Yes 	3 / 6
+IDP dMRI TBSS MD Anterior corona radiata L → AUD 	WM tract diffusivity 	substance use 	12 	Yes 	Yes 	3 / 6
+IDP dMRI TBSS MD Anterior corona radiata L → MDD 	WM tract diffusivity 	internalizing 	12 	Yes 	Yes 	2 / 6
+IDP dMRI TBSS MD Sagittal stratum L → MDD 	WM tract diffusivity 	internalizing 	13 	n.s. 	Yes 	1 / 6
+IDP dMRI TBSS MD Superior longitudinal fasciculus L → BD 	WM tract diffusivity 	bd/scz 	12 	Yes 	Yes 	2 / 6
+IDP dMRI TBSS L2 Posterior limb of internal capsule R → MDD 	WM tract diffusivity 	internalizing 	14 	n.s. 	Yes 	2 / 6
+IDP dMRI TBSS L2 Posterior limb of internal capsule L → BD 	WM tract diffusivity 	bd/scz 	16 	n.s. 	Yes 	1 / 6
+IDP dMRI TBSS L3 Anterior limb of internal capsule R → TUD 	WM tract diffusivity 	substance use 	10 	n.s. 	Yes 	1 / 6
+IDP dMRI TBSS L3 Anterior corona radiata L → AUD 	WM tract diffusivity 	substance use 	10 	No 	Yes 	3 / 6
+IDP dMRI TBSS L3 Sagittal stratum L → MDD 	WM tract diffusivity 	internalizing 	14 	n.s. 	No 	2 / 6
+IDP dMRI TBSS L3 Superior longitudinal fasciculus R → AUD 	WM tract diffusivity 	substance use 	14 	n.s. 	Yes 	1 / 6
+IDP dMRI TBSS L3 Superior longitudinal fasciculus R → MDD 	WM tract diffusivity 	internalizing 	14 	No 	Yes 	3 / 6
+IDP dMRI TBSS L3 Superior longitudinal fasciculus R → TUD 	WM tract diffusivity 	substance use 	14 	n.s. 	Yes 	1 / 6
+IDP dMRI ProbtrackX MD fmi → MDD 	WM tract diffusivity 	internalizing 	12 	n.s. 	Yes 	1 / 6
+IDP dMRI ProbtrackX MD slf l → AUD 	WM tract diffusivity 	substance use 	14 	n.s. 	Yes 	2 / 6
+IDP dMRI ProbtrackX MD slf l → PTSD 	WM tract diffusivity 	internalizing 	14 	n.s. 	Yes 	2 / 6
+IDP dMRI ProbtrackX L1 slf l → AUD 	WM tract diffusivity 	substance use 	11 	n.s. 	Yes 	2 / 6
+IDP dMRI ProbtrackX L2 fmi → AUD 	WM tract diffusivity 	substance use 	15 	n.s. 	Yes 	2 / 6
+IDP dMRI ProbtrackX L2 fmi → MDD 	WM tract diffusivity 	internalizing 	15 	Yes 	Yes 	2 / 6
+IDP dMRI ProbtrackX L3 fmi → MDD 	WM tract diffusivity 	internalizing 	14 	Yes 	Yes 	3 / 6
+IDP dMRI ProbtrackX L3 ifo l → BD 	WM tract diffusivity 	bd/scz 	12 	Yes 	No 	3 / 6
+IDP dMRI ProbtrackX L3 ilf r → MDD 	WM tract diffusivity 	internalizing 	12 	n.s. 	Yes 	1 / 6
+IDP dMRI TBSS ICVF Genu of corpus callosum → MDD 	WM tract ICVF 	internalizing 	22 	n.s. 	Yes 	1 / 6
+IDP dMRI TBSS ICVF Genu of corpus callosum → PTSD 	WM tract ICVF 	internalizing 	22 	No 	Yes 	2 / 6
+IDP dMRI TBSS ICVF Body of corpus callosum → BD 	WM tract ICVF 	bd/scz 	25 	n.s. 	Yes 	1 / 6
+IDP dMRI TBSS ICVF Body of corpus callosum → MDD 	WM tract ICVF 	internalizing 	25 	No 	Yes 	2 / 6
+IDP dMRI TBSS ICVF Splenium of corpus callosum → AUD 	WM tract ICVF 	substance use 	20 	n.s. 	Yes 	2 / 6
+IDP dMRI TBSS ICVF Inferior cerebellar peduncle L → ANX 	WM tract ICVF 	internalizing 	15 	n.s. 	Yes 	1 / 6
+IDP dMRI TBSS ICVF Superior cerebellar peduncle R → BD 	WM tract ICVF 	bd/scz 	12 	Yes 	Yes 	4 / 6
+IDP dMRI TBSS ICVF Superior cerebellar peduncle L → BD 	WM tract ICVF 	bd/scz 	12 	Yes 	No 	3 / 6
+IDP dMRI TBSS ICVF Anterior limb of internal capsule R → BD 	WM tract ICVF 	bd/scz 	14 	n.s. 	Yes 	1 / 6
+IDP dMRI TBSS ICVF Anterior limb of internal capsule R → MDD 	WM tract ICVF 	internalizing 	14 	n.s. 	Yes 	1 / 6
+IDP dMRI TBSS ICVF Anterior limb of internal capsule L → BD 	WM tract ICVF 	bd/scz 	16 	n.s. 	Yes 	1 / 6
+IDP dMRI TBSS ICVF Retrolenticular part of internal capsule R → MDD 	WM tract ICVF 	internalizing 	15 	Yes 	Yes 	2 / 6
+IDP dMRI TBSS ICVF Retrolenticular part of internal capsule L → AUD 	WM tract ICVF 	substance use 	22 	No 	Yes 	3 / 6
+IDP dMRI TBSS ICVF Retrolenticular part of internal capsule L → MDD 	WM tract ICVF 	internalizing 	22 	Yes 	Yes 	4 / 6
+IDP dMRI TBSS ICVF Anterior corona radiata R → BD 	WM tract ICVF 	bd/scz 	18 	n.s. 	Yes 	1 / 6
+IDP dMRI TBSS ICVF Anterior corona radiata L → BD 	WM tract ICVF 	bd/scz 	16 	n.s. 	Yes 	1 / 6
+IDP dMRI TBSS ICVF Superior corona radiata L → MDD 	WM tract ICVF 	internalizing 	14 	Yes 	Yes 	2 / 6
+IDP dMRI TBSS ICVF Posterior corona radiata R → AUD 	WM tract ICVF 	substance use 	13 	n.s. 	Yes 	1 / 6
+IDP dMRI TBSS ICVF Posterior corona radiata R → MDD 	WM tract ICVF 	internalizing 	13 	Yes 	Yes 	2 / 6
+IDP dMRI TBSS ICVF External capsule R → PTSD 	WM tract ICVF 	internalizing 	11 	n.s. 	No 	1 / 6
+IDP dMRI TBSS ICVF Cingulum hippocampus R → BD 	WM tract ICVF 	bd/scz 	19 	No 	Yes 	2 / 6
+IDP dMRI TBSS ICVF Fornix cres+Stria terminalis R → BD 	WM tract ICVF 	bd/scz 	14 	Yes 	Yes 	2 / 6
+IDP dMRI TBSS ICVF Fornix cres+Stria terminalis R → MDD 	WM tract ICVF 	internalizing 	14 	n.s. 	Yes 	1 / 6
+IDP dMRI TBSS ICVF Fornix cres+Stria terminalis L → BD 	WM tract ICVF 	bd/scz 	16 	Yes 	No 	2 / 6
+IDP dMRI TBSS ICVF Fornix cres+Stria terminalis L → TUD 	WM tract ICVF 	substance use 	16 	n.s. 	Yes 	1 / 6
+IDP dMRI ProbtrackX ICVF ar l → PTSD 	WM tract ICVF 	internalizing 	19 	Yes 	Yes 	3 / 6
+IDP dMRI ProbtrackX ICVF atr l → BD 	WM tract ICVF 	bd/scz 	14 	n.s. 	Yes 	1 / 6
+IDP dMRI ProbtrackX ICVF atr l → MDD 	WM tract ICVF 	internalizing 	14 	Yes 	Yes 	2 / 6
+IDP dMRI ProbtrackX ICVF atr l → SCZ 	WM tract ICVF 	bd/scz 	14 	n.s. 	Yes 	1 / 6
+IDP dMRI ProbtrackX ICVF atr r → BD 	WM tract ICVF 	bd/scz 	14 	n.s. 	Yes 	1 / 6
+IDP dMRI ProbtrackX ICVF atr r → MDD 	WM tract ICVF 	internalizing 	14 	No 	Yes 	2 / 6
+IDP dMRI ProbtrackX ICVF atr r → SCZ 	WM tract ICVF 	bd/scz 	14 	n.s. 	Yes 	1 / 6
+IDP dMRI ProbtrackX ICVF cst l → BD 	WM tract ICVF 	bd/scz 	18 	n.s. 	Yes 	1 / 6
+IDP dMRI ProbtrackX ICVF cst r → BD 	WM tract ICVF 	bd/scz 	12 	n.s. 	Yes 	1 / 6
+IDP dMRI ProbtrackX ICVF ifo r → AUD 	WM tract ICVF 	substance use 	23 	No 	Yes 	3 / 6
+IDP dMRI ProbtrackX ICVF ilf r → MDD 	WM tract ICVF 	internalizing 	20 	Yes 	Yes 	3 / 6
+IDP dMRI ProbtrackX ICVF ml l → TUD 	WM tract ICVF 	substance use 	14 	No 	Yes 	2 / 6
+IDP dMRI ProbtrackX ICVF str r → AUD 	WM tract ICVF 	substance use 	17 	n.s. 	Yes 	1 / 6
+IDP dMRI ProbtrackX ICVF str r → BD 	WM tract ICVF 	bd/scz 	17 	No 	Yes 	3 / 6
+IDP dMRI ProbtrackX ICVF str r → TUD 	WM tract ICVF 	substance use 	17 	n.s. 	Yes 	1 / 6
+IDP dMRI TBSS OD Cerebral peduncle R → TUD 	WM tract OD 	substance use 	12 	No 	Yes 	4 / 6
+IDP dMRI TBSS OD Cerebral peduncle L → BD 	WM tract OD 	bd/scz 	11 	n.s. 	Yes 	3 / 6
+IDP dMRI TBSS OD Cerebral peduncle L → MDD 	WM tract OD 	internalizing 	11 	Yes 	Yes 	3 / 6
+IDP dMRI TBSS OD Cerebral peduncle L → PTSD 	WM tract OD 	internalizing 	11 	n.s. 	Yes 	1 / 6
+IDP dMRI TBSS OD Cerebral peduncle L → SB 	WM tract OD 	suicidality 	11 	n.s. 	No 	2 / 6
+IDP dMRI TBSS OD Anterior limb of internal capsule R → CUD 	WM tract OD 	substance use 	12 	n.s. 	No 	2 / 6
+IDP dMRI ProbtrackX OD slf l → ANX 	WM tract OD 	internalizing 	11 	n.s. 	No 	2 / 6
+IDP dMRI ProbtrackX ISOVF ifo r → BD 	WM tract ISOVF 	bd/scz 	16 	No 	Yes 	3 / 6
+IDP dMRI ProbtrackX ISOVF ilf l → BD 	WM tract ISOVF 	bd/scz 	18 	No 	Yes 	3 / 6
+IDP dMRI ProbtrackX ISOVF ilf r → BD 	WM tract ISOVF 	bd/scz 	22 	No 	Yes 	3 / 6
+rfMRI connectivity ICA-features 2 → ADHD 	rfMRI connectivity 	neurodevelopmental 	13 	No 	No 	2 / 6
+rfMRI connectivity ICA-features 2 → CUD 	rfMRI connectivity 	substance use 	13 	n.s. 	No 	2 / 6
+rfMRI connectivity ICA-features 2 → SCZ 	rfMRI connectivity 	bd/scz 	13 	Yes 	Yes 	3 / 6
+rfMRI connectivity ICA-features 3 → CUD 	rfMRI connectivity 	substance use 	12 	n.s. 	No 	1 / 6
+rfMRI connectivity ICA-features 3 → MDD 	rfMRI connectivity 	internalizing 	12 	n.s. 	Yes 	1 / 6
+rfMRI connectivity ICA-features 3 → SCZ 	rfMRI connectivity 	bd/scz 	12 	n.s. 	Yes 	1 / 6
+rfMRI connectivity ICA-features 6 → ANX 	rfMRI connectivity 	internalizing 	11 	No 	No 	3 / 6
+rfMRI connectivity ICA-features 6 → SCZ 	rfMRI connectivity 	bd/scz 	11 	n.s. 	No 	1 / 6
+ADHD → wg rh intensity-contrast parstriangularis 	neurodevelopmental 	cortical grey-white contrast 	26 	n.s. 	No 	1 / 6
+ADHD → IDP dMRI TBSS OD Anterior limb of internal capsule L 	neurodevelopmental 	WM tract OD 	26 	No 	No 	5 / 6
+MDD → wg lh intensity-contrast parstriangularis 	internalizing 	cortical grey-white contrast 	122 	No 	No 	2 / 6
+MDD → IDP dMRI TBSS OD Anterior limb of internal capsule R 	internalizing 	WM tract OD 	122 	No 	No 	3 / 6
+MDD → rfMRI connectivity ICA-features 6 	internalizing 	rfMRI connectivity 	122 	No 	No 	3 / 6
+PTSD → aparc-DKTatlas lh volume cuneus 	internalizing 	regional and tissue volume 	27 	n.s. 	No 	1 / 6
+SB → wg lh intensity-contrast insula 	suicidality 	cortical grey-white contrast 	35 	No 	No 	3 / 6
+SB → IDP dMRI TBSS FA Superior cerebellar peduncle L 	suicidality 	WM tract FA 	35 	No 	No 	2 / 6
+SCZ → wg lh intensity-contrast lateraloccipital 	bd/scz 	cortical grey-white contrast 	181 	Yes 	No 	3 / 6
+SCZ → wg rh intensity-contrast lateraloccipital 	bd/scz 	cortical grey-white contrast 	181 	Yes 	No 	3 / 6
