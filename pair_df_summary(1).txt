@@ -1,0 +1,228 @@
+Pair	Exposure category	Outcome category	N SNPs	P > 0.05 in any LOO?	Nonzero in DCE?	Sig. methods	Sig. effect on hair color?	Egger N SNPs	Egger intercept (liability)	Egger intercept SE	Egger intercept p	Sig. Egger intercept?	Cochran's Q (IVW)	Q df	Q p	I² (%)	Sig. heterogeneity?
+IDP T1 FAST ROIs L ventral striatum → ANX	regional and tissue volume	internalizing	15	Yes	Yes	4 / 6	No	14	-0.003047	0.002025	0.158	No	26.92	13	0.0128	51.7	Yes
+IDP T1 FAST ROIs L ventral striatum → CUD	regional and tissue volume	substance use	15	Yes	Yes	4 / 6	No	14	-0.004183	0.002249	0.0875	No	18.35	13	0.145	29.1	No
+IDP T1 FAST ROIs L ventral striatum → MDD	regional and tissue volume	internalizing	15	No	Yes	3 / 6	No	14	0.001093	0.001568	0.499	No	30.86	13	0.00353	57.9	Yes
+IDP T1 FAST ROIs L ventral striatum → PTSD	regional and tissue volume	internalizing	15	No	Yes	4 / 6	No	13	-0.001276	0.001781	0.489	No	23.08	12	0.027	48.0	Yes
+IDP T1 FAST ROIs L ventral striatum → TUD	regional and tissue volume	substance use	15	Yes	Yes	4 / 6	No	14	-0.001977	0.0009739	0.0651	No	23.21	13	0.0392	44.0	Yes
+IDP T1 FAST ROIs R ventral striatum → CUD	regional and tissue volume	substance use	10	Yes	Yes	4 / 6	No	10	-0.004033	0.004066	0.35	No	17.53	9	0.041	48.7	Yes
+IDP T1 FAST ROIs R ventral striatum → MDD	regional and tissue volume	internalizing	10	No	Yes	3 / 6	No	10	0.0003211	0.00184	0.866	No	19.77	9	0.0194	54.5	Yes
+IDP T1 FAST ROIs L cerebellum crus I → ADHD	regional and tissue volume	neurodevelopmental	15	n.s.	No	2 / 6	No	13	-0.0001816	0.007334	0.981	No	33.51	12	0.000805	64.2	Yes
+IDP T1 FAST ROIs R cerebellum crus I → ANX	regional and tissue volume	internalizing	20	No	Yes	3 / 6	No	18	-0.001506	0.003056	0.629	No	 26.1	17	0.0726	34.9	No
+IDP T1 FAST ROIs R cerebellum crus I → CUD	regional and tissue volume	substance use	20	n.s.	No	1 / 6	No	19	-0.001375	0.005828	0.816	No	37.35	18	0.00471	51.8	Yes
+IDP T1 FAST ROIs L cerebellum crus II → ADHD	regional and tissue volume	neurodevelopmental	16	n.s.	No	2 / 6	No	15	0.005161	0.005029	0.323	No	30.49	14	0.00654	54.1	Yes
+IDP T1 FAST ROIs L cerebellum crus II → AUD	regional and tissue volume	substance use	16	n.s.	Yes	2 / 6	No	16	-0.000261	0.002406	0.915	No	50.79	15	8.94e-06	70.5	Yes
+IDP T1 FAST ROIs R cerebellum crus II → AUD	regional and tissue volume	substance use	21	Yes	Yes	3 / 6	No	21	6.165e-05	0.002572	0.981	No	64.88	20	1.22e-06	69.2	Yes
+IDP T1 FAST ROIs R cerebellum crus II → CUD	regional and tissue volume	substance use	21	No	Yes	3 / 6	No	21	-0.003671	0.004498	0.425	No	 37.6	20	0.00991	46.8	Yes
+IDP T1 FAST ROIs R cerebellum VIIb → CUD	regional and tissue volume	substance use	13	n.s.	No	3 / 6	No	13	-0.002163	0.005601	0.707	No	 36.6	12	0.000259	67.2	Yes
+IDP T1 FAST ROIs L cerebellum VIIIa → BD	regional and tissue volume	bd/scz	14	n.s.	No	1 / 6	Yes	14	-0.005805	0.005211	0.287	No	40.87	13	0.0001	68.2	Yes
+IDP T1 FAST ROIs V cerebellum VIIIa → SCZ	regional and tissue volume	bd/scz	15	n.s.	No	2 / 6	Yes	15	-0.01965	0.006215	0.0075	Yes	132.4	14	2.29e-21	89.4	Yes
+IDP T1 FAST ROIs R cerebellum VIIIa → CUD	regional and tissue volume	substance use	12	No	No	3 / 6	No	12	-0.007435	0.006751	0.297	No	28.06	11	0.00317	60.8	Yes
+IDP T1 FAST ROIs V cerebellum VIIIb → TUD	regional and tissue volume	substance use	14	Yes	Yes	3 / 6	No	14	-0.002298	0.001578	0.171	No	18.89	13	0.127	31.2	No
+IDP T1 FAST ROIs L cerebellum IX → CUD	regional and tissue volume	substance use	12	Yes	No	3 / 6	No	12	-5.209e-05	0.006814	0.994	No	51.16	11	3.86e-07	78.5	Yes
+IDP T1 FAST ROIs L cerebellum IX → TUD	regional and tissue volume	substance use	12	Yes	Yes	3 / 6	No	12	0.0005354	0.00241	0.829	No	 47.2	11	1.98e-06	76.7	Yes
+aseg global volume VentricleChoroid → ADHD	regional and tissue volume	neurodevelopmental	10	n.s.	No	2 / 6	No	10	0.003897	0.01267	0.766	No	31.79	9	0.000217	71.7	Yes
+aseg global volume VentricleChoroid → SCZ	regional and tissue volume	bd/scz	10	No	Yes	3 / 6	No	10	-0.001991	0.004696	0.683	No	4.578	9	0.869	0.0	No
+aseg global volume 3rd-Ventricle → ADHD	regional and tissue volume	neurodevelopmental	11	n.s.	No	1 / 6	No	11	-0.01582	0.01306	0.257	No	41.81	10	8.1e-06	76.1	Yes
+aseg global volume CC-Posterior → CUD	regional and tissue volume	substance use	12	No	No	3 / 6	Yes	11	-0.004619	0.007812	0.569	No	7.885	10	0.64	0.0	No
+aseg lh volume Lateral-Ventricle → ADHD	regional and tissue volume	neurodevelopmental	10	n.s.	No	2 / 6	No	10	0.008006	0.01339	0.566	No	29.05	9	0.000636	69.0	Yes
+aseg lh volume Lateral-Ventricle → SCZ	regional and tissue volume	bd/scz	10	No	No	3 / 6	No	10	-0.005187	0.005169	0.345	No	4.291	9	0.891	0.0	No
+aseg rh volume Putamen → AUD	regional and tissue volume	substance use	14	n.s.	Yes	1 / 6	Yes	12	-0.004349	0.006169	0.497	No	40.28	11	3.2e-05	72.7	Yes
+aseg rh volume Putamen → CUD	regional and tissue volume	substance use	14	n.s.	No	1 / 6	Yes	13	0.0007907	0.01087	0.943	No	55.84	12	1.28e-07	78.5	Yes
+AmygNuclei rh volume Lateral-nucleus → SCZ	regional and tissue volume	bd/scz	10	No	No	3 / 6	Yes	10	-0.006042	0.005972	0.341	No	17.03	9	0.0482	47.2	Yes
+HippSubfield lh volume Whole-hippocampal-body → ADHD	regional and tissue volume	neurodevelopmental	12	n.s.	No	1 / 6	Yes	12	-0.003652	0.01241	0.775	No	31.64	11	0.00087	65.2	Yes
+HippSubfield lh volume Whole-hippocampal-body → ANX	regional and tissue volume	internalizing	12	n.s.	Yes	2 / 6	Yes	11	0.008994	0.007576	0.266	No	27.65	10	0.00205	63.8	Yes
+HippSubfield lh volume Whole-hippocampal-body → PTSD	regional and tissue volume	internalizing	12	n.s.	Yes	1 / 6	Yes	12	-0.001639	0.007248	0.826	No	38.03	11	7.73e-05	71.1	Yes
+HippSubfield lh volume Whole-hippocampus → ADHD	regional and tissue volume	neurodevelopmental	10	n.s.	No	1 / 6	Yes	10	-0.006282	0.009018	0.506	No	31.54	9	0.000239	71.5	Yes
+HippSubfield lh volume Whole-hippocampus → PTSD	regional and tissue volume	internalizing	10	n.s.	Yes	1 / 6	Yes	10	-0.00219	0.004963	0.671	No	33.05	9	0.000131	72.8	Yes
+HippSubfield rh volume CA4-body → ADHD	regional and tissue volume	neurodevelopmental	11	n.s.	No	1 / 6	No	11	-0.002802	0.01371	0.843	No	46.17	10	1.33e-06	78.3	Yes
+Brainstem global volume Medulla → ANX	regional and tissue volume	internalizing	11	n.s.	No	2 / 6	No	10	-0.004044	0.01104	0.724	No	27.25	9	0.00127	67.0	Yes
+Brainstem global volume Medulla → SCZ	regional and tissue volume	bd/scz	11	Yes	Yes	3 / 6	No	10	0.01718	0.01108	0.16	No	26.88	9	0.00147	66.5	Yes
+Brainstem global volume Pons → SCZ	regional and tissue volume	bd/scz	29	Yes	Yes	3 / 6	No	29	0.001629	0.00435	0.711	No	65.44	28	7.86e-05	57.2	Yes
+Brainstem global volume Whole-brainstem → SCZ	regional and tissue volume	bd/scz	24	n.s.	Yes	2 / 6	No	24	0.009864	0.007344	0.193	No	105.7	23	1.41e-12	78.2	Yes
+aparc-DKTatlas rh volume cuneus → SCZ	regional and tissue volume	bd/scz	11	No	Yes	4 / 6	Yes	11	-0.004304	0.003434	0.242	No	 11.5	10	0.32	13.0	No
+aparc-DKTatlas rh volume pericalcarine → SCZ	regional and tissue volume	bd/scz	18	n.s.	Yes	2 / 6	No	17	-0.01103	0.005702	0.0721	No	58.83	16	8.23e-07	72.8	Yes
+aparc-DKTatlas lh area lingual → SCZ	cortical area	bd/scz	14	Yes	No	2 / 6	No	13	-0.007669	0.008061	0.362	No	54.56	12	2.17e-07	78.0	Yes
+aparc-DKTatlas lh area lingual → TUD	cortical area	substance use	14	No	Yes	3 / 6	No	14	0.0039	0.001939	0.0673	No	18.01	13	0.157	27.8	No
+aparc-DKTatlas rh area cuneus → SCZ	cortical area	bd/scz	12	Yes	No	4 / 6	Yes	12	-0.01421	0.006736	0.061	No	47.58	11	1.7e-06	76.9	Yes
+aparc-DKTatlas rh area cuneus → TUD	cortical area	substance use	12	No	Yes	3 / 6	Yes	12	0.002621	0.002097	0.24	No	13.93	11	0.237	21.0	No
+aparc-DKTatlas rh area lingual → SCZ	cortical area	bd/scz	11	No	Yes	3 / 6	No	11	-0.003598	0.008734	0.69	No	28.94	10	0.00128	65.4	Yes
+aparc-DKTatlas rh area pericalcarine → SCZ	cortical area	bd/scz	22	n.s.	Yes	3 / 6	No	21	-0.01261	0.004811	0.0168	Yes	57.97	20	1.46e-05	65.5	Yes
+aseg lh intensity Putamen → CUD	regional and tissue intensity	substance use	13	Yes	Yes	4 / 6	No	12	0.005196	0.002494	0.0638	No	14.75	11	0.194	25.4	No
+aseg lh intensity Putamen → TUD	regional and tissue intensity	substance use	13	Yes	Yes	4 / 6	No	12	0.001257	0.0009445	0.213	No	10.82	11	0.458	0.0	No
+aseg rh intensity Caudate → ANX	regional and tissue intensity	internalizing	12	n.s.	Yes	2 / 6	No	11	0.00822	0.007037	0.273	No	38.67	10	2.9e-05	74.1	Yes
+aseg rh intensity Caudate → BD	regional and tissue intensity	bd/scz	12	Yes	No	3 / 6	No	12	0.006164	0.006366	0.356	No	27.64	11	0.00368	60.2	Yes
+aseg rh intensity Putamen → MDD	regional and tissue intensity	internalizing	17	Yes	Yes	3 / 6	No	15	0.0007771	0.001781	0.67	No	30.06	14	0.00748	53.4	Yes
+aseg rh intensity Pallidum → TUD	regional and tissue intensity	substance use	11	Yes	Yes	4 / 6	Yes	10	0.00181	0.001245	0.184	No	11.66	9	0.233	22.8	No
+aseg rh intensity Accumbens-area → CUD	regional and tissue intensity	substance use	15	Yes	Yes	4 / 6	No	15	0.007695	0.002182	0.00372	Yes	23.29	14	0.0557	39.9	No
+aseg rh intensity Accumbens-area → MDD	regional and tissue intensity	internalizing	15	No	Yes	3 / 6	No	12	-0.001227	0.001734	0.495	No	23.34	11	0.0158	52.9	Yes
+wg lh intensity-contrast bankssts → AUD	cortical grey-white contrast	substance use	11	No	Yes	3 / 6	No	11	0.005576	0.004407	0.238	No	14.51	10	0.151	31.1	No
+wg lh intensity-contrast caudalmiddlefrontal → ANX	cortical grey-white contrast	internalizing	17	n.s.	Yes	1 / 6	Yes	15	0.003039	0.009779	0.761	No	70.17	14	1.8e-09	80.0	Yes
+wg lh intensity-contrast caudalmiddlefrontal → AUD	cortical grey-white contrast	substance use	17	No	Yes	4 / 6	Yes	16	-0.01306	0.006068	0.0493	Yes	115.2	15	1.59e-17	87.0	Yes
+wg lh intensity-contrast cuneus → MDD	cortical grey-white contrast	internalizing	13	Yes	Yes	2 / 6	No	11	-0.0004719	0.004679	0.922	No	16.97	10	0.0749	41.1	No
+wg lh intensity-contrast fusiform → AUD	cortical grey-white contrast	substance use	30	No	Yes	4 / 6	No	29	-0.001341	0.001832	0.471	No	46.87	28	0.0141	40.3	Yes
+wg lh intensity-contrast fusiform → CUD	cortical grey-white contrast	substance use	30	n.s.	Yes	1 / 6	No	28	0.00178	0.005215	0.736	No	61.74	27	0.000155	56.3	Yes
+wg lh intensity-contrast fusiform → MDD	cortical grey-white contrast	internalizing	30	No	Yes	4 / 6	No	19	0.003242	0.00362	0.383	No	51.06	18	5.21e-05	64.7	Yes
+wg lh intensity-contrast inferiorparietal → MDD	cortical grey-white contrast	internalizing	23	n.s.	Yes	1 / 6	No	18	0.003457	0.003121	0.284	No	45.23	17	0.000225	62.4	Yes
+wg lh intensity-contrast inferiortemporal → AUD	cortical grey-white contrast	substance use	22	No	Yes	3 / 6	No	22	-0.005501	0.004857	0.271	No	148.8	21	2.92e-21	85.9	Yes
+wg lh intensity-contrast inferiortemporal → MDD	cortical grey-white contrast	internalizing	22	n.s.	Yes	2 / 6	No	16	0.006851	0.004009	0.109	No	55.47	15	1.49e-06	73.0	Yes
+wg lh intensity-contrast isthmuscingulate → ANX	cortical grey-white contrast	internalizing	19	n.s.	Yes	2 / 6	No	17	0.01311	0.004289	0.00799	Yes	40.63	16	0.000629	60.6	Yes
+wg lh intensity-contrast isthmuscingulate → CUD	cortical grey-white contrast	substance use	19	n.s.	No	1 / 6	No	18	0.01129	0.009183	0.237	No	77.64	17	1e-09	78.1	Yes
+wg lh intensity-contrast isthmuscingulate → MDD	cortical grey-white contrast	internalizing	19	n.s.	Yes	2 / 6	No	14	0.009401	0.003141	0.0112	Yes	37.48	13	0.000348	65.3	Yes
+wg lh intensity-contrast lateraloccipital → MDD	cortical grey-white contrast	internalizing	25	n.s.	Yes	2 / 6	No	20	-0.003225	0.003196	0.326	No	36.17	19	0.0101	47.5	Yes
+wg lh intensity-contrast lateralorbitofrontal → AUD	cortical grey-white contrast	substance use	24	Yes	Yes	2 / 6	Yes	24	-0.003825	0.0045	0.404	No	170.2	23	1.96e-24	86.5	Yes
+wg lh intensity-contrast lateralorbitofrontal → MDD	cortical grey-white contrast	internalizing	24	n.s.	Yes	1 / 6	Yes	19	0.006221	0.003079	0.0593	No	45.45	18	0.000357	60.4	Yes
+wg lh intensity-contrast medialorbitofrontal → MDD	cortical grey-white contrast	internalizing	17	n.s.	Yes	1 / 6	No	16	0.003245	0.004468	0.48	No	56.39	15	1.04e-06	73.4	Yes
+wg lh intensity-contrast medialorbitofrontal → TUD	cortical grey-white contrast	substance use	17	n.s.	Yes	2 / 6	No	17	0.005654	0.002167	0.0197	Yes	52.29	16	9.82e-06	69.4	Yes
+wg lh intensity-contrast middletemporal → AUD	cortical grey-white contrast	substance use	23	No	Yes	3 / 6	No	20	-0.0009174	0.001979	0.649	No	23.92	19	0.199	20.6	No
+wg lh intensity-contrast middletemporal → MDD	cortical grey-white contrast	internalizing	23	No	Yes	3 / 6	No	16	0.005584	0.001973	0.0134	Yes	23.41	15	0.0758	35.9	No
+wg lh intensity-contrast parahippocampal → AUD	cortical grey-white contrast	substance use	13	No	Yes	4 / 6	No	13	-0.00825	0.007414	0.29	No	111.6	12	2.91e-18	89.2	Yes
+wg lh intensity-contrast parsopercularis → AUD	cortical grey-white contrast	substance use	20	No	Yes	4 / 6	Yes	20	-0.007893	0.005112	0.14	No	130.9	19	9.78e-19	85.5	Yes
+wg lh intensity-contrast parstriangularis → AUD	cortical grey-white contrast	substance use	15	Yes	Yes	3 / 6	No	15	-0.01333	0.008055	0.122	No	138.2	14	1.6e-22	89.9	Yes
+wg lh intensity-contrast posteriorcingulate → MDD	cortical grey-white contrast	internalizing	17	n.s.	Yes	1 / 6	No	12	0.008912	0.004688	0.0865	No	36.81	11	0.000124	70.1	Yes
+wg lh intensity-contrast precuneus → AUD	cortical grey-white contrast	substance use	26	No	Yes	4 / 6	No	26	-0.01158	0.003077	0.000953	Yes	164.4	25	1.81e-22	84.8	Yes
+wg lh intensity-contrast rostralanteriorcingulate → AUD	cortical grey-white contrast	substance use	12	n.s.	Yes	2 / 6	Yes	12	-0.00386	0.006023	0.536	No	33.35	11	0.000461	67.0	Yes
+wg lh intensity-contrast rostralmiddlefrontal → AUD	cortical grey-white contrast	substance use	26	Yes	Yes	2 / 6	Yes	23	-0.001483	0.002182	0.504	No	 44.4	22	0.00316	50.4	Yes
+wg lh intensity-contrast superiorfrontal → MDD	cortical grey-white contrast	internalizing	26	No	Yes	3 / 6	Yes	21	0.001671	0.002587	0.526	No	26.72	20	0.143	25.2	No
+wg lh intensity-contrast superiorparietal → AUD	cortical grey-white contrast	substance use	23	Yes	Yes	4 / 6	No	23	-0.01577	0.004206	0.00118	Yes	164.4	22	8.84e-24	86.6	Yes
+wg lh intensity-contrast superiorparietal → MDD	cortical grey-white contrast	internalizing	23	n.s.	Yes	1 / 6	No	18	0.00676	0.004059	0.115	No	47.89	17	8.94e-05	64.5	Yes
+wg lh intensity-contrast superiortemporal → AUD	cortical grey-white contrast	substance use	26	No	Yes	3 / 6	No	25	-0.001163	0.003733	0.758	No	  145	24	2.8e-19	83.4	Yes
+wg lh intensity-contrast supramarginal → AUD	cortical grey-white contrast	substance use	23	No	Yes	5 / 6	No	22	-0.007212	0.004324	0.111	No	151.6	21	8.6e-22	86.2	Yes
+wg lh intensity-contrast insula → AUD	cortical grey-white contrast	substance use	21	n.s.	No	3 / 6	No	20	-0.004808	0.00187	0.0192	Yes	36.51	19	0.00914	48.0	Yes
+wg rh intensity-contrast bankssts → AUD	cortical grey-white contrast	substance use	19	No	Yes	5 / 6	No	19	-0.01603	0.003424	0.000215	Yes	116.5	18	1.88e-16	84.6	Yes
+wg rh intensity-contrast bankssts → CUD	cortical grey-white contrast	substance use	19	n.s.	No	1 / 6	No	19	0.008674	0.008984	0.348	No	73.71	18	1.06e-08	75.6	Yes
+wg rh intensity-contrast caudalmiddlefrontal → ANX	cortical grey-white contrast	internalizing	17	n.s.	Yes	1 / 6	No	16	0.01156	0.007139	0.128	No	55.93	15	1.25e-06	73.2	Yes
+wg rh intensity-contrast caudalmiddlefrontal → MDD	cortical grey-white contrast	internalizing	17	n.s.	Yes	3 / 6	No	14	0.01299	0.004121	0.00834	Yes	 42.7	13	5.03e-05	69.6	Yes
+wg rh intensity-contrast fusiform → AUD	cortical grey-white contrast	substance use	28	No	Yes	5 / 6	Yes	26	-0.009346	0.003807	0.0217	Yes	172.5	25	5.37e-24	85.5	Yes
+wg rh intensity-contrast fusiform → BD	cortical grey-white contrast	bd/scz	28	n.s.	Yes	1 / 6	Yes	24	0.007702	0.005763	0.195	No	104.2	23	2.66e-12	77.9	Yes
+wg rh intensity-contrast fusiform → MDD	cortical grey-white contrast	internalizing	28	n.s.	Yes	1 / 6	Yes	20	0.001512	0.003865	0.7	No	80.23	19	1.7e-09	76.3	Yes
+wg rh intensity-contrast inferiorparietal → AUD	cortical grey-white contrast	substance use	25	No	Yes	3 / 6	Yes	25	-0.004727	0.004097	0.26	No	188.1	24	2.05e-27	87.2	Yes
+wg rh intensity-contrast inferiorparietal → MDD	cortical grey-white contrast	internalizing	25	Yes	Yes	3 / 6	Yes	21	0.004454	0.002755	0.122	No	54.74	20	4.5e-05	63.5	Yes
+wg rh intensity-contrast inferiortemporal → AUD	cortical grey-white contrast	substance use	30	No	Yes	3 / 6	No	29	-0.004722	0.004049	0.254	No	196.6	28	3.06e-27	85.8	Yes
+wg rh intensity-contrast inferiortemporal → CUD	cortical grey-white contrast	substance use	30	n.s.	No	1 / 6	No	29	0.007412	0.005533	0.192	No	79.01	28	9.38e-07	64.6	Yes
+wg rh intensity-contrast inferiortemporal → MDD	cortical grey-white contrast	internalizing	30	n.s.	Yes	1 / 6	No	23	0.003371	0.00349	0.345	No	74.96	22	1.07e-07	70.7	Yes
+wg rh intensity-contrast isthmuscingulate → AUD	cortical grey-white contrast	substance use	16	Yes	Yes	4 / 6	No	16	-0.01692	0.004649	0.00268	Yes	  149	15	3.83e-24	89.9	Yes
+wg rh intensity-contrast isthmuscingulate → TUD	cortical grey-white contrast	substance use	16	Yes	Yes	2 / 6	No	16	0.001664	0.002514	0.519	No	34.68	15	0.00273	56.7	Yes
+wg rh intensity-contrast lateralorbitofrontal → AUD	cortical grey-white contrast	substance use	20	No	Yes	3 / 6	No	20	-0.006434	0.005129	0.226	No	  132	19	6.02e-19	85.6	Yes
+wg rh intensity-contrast medialorbitofrontal → AUD	cortical grey-white contrast	substance use	16	No	Yes	3 / 6	No	16	0.00043	0.00592	0.943	No	133.8	15	3.85e-21	88.8	Yes
+wg rh intensity-contrast middletemporal → AUD	cortical grey-white contrast	substance use	26	No	Yes	3 / 6	Yes	25	0.0008014	0.001657	0.633	No	26.51	24	0.328	9.5	No
+wg rh intensity-contrast parahippocampal → ANX	cortical grey-white contrast	internalizing	13	n.s.	No	1 / 6	No	12	0.005688	0.006157	0.377	No	47.44	11	1.8e-06	76.8	Yes
+wg rh intensity-contrast parahippocampal → AUD	cortical grey-white contrast	substance use	13	No	Yes	4 / 6	No	13	-0.002438	0.005293	0.654	No	120.6	12	4.6e-20	90.1	Yes
+wg rh intensity-contrast parahippocampal → MDD	cortical grey-white contrast	internalizing	13	n.s.	Yes	2 / 6	No	10	0.001947	0.004354	0.667	No	36.81	9	2.84e-05	75.6	Yes
+wg rh intensity-contrast paracentral → TUD	cortical grey-white contrast	substance use	10	Yes	Yes	3 / 6	No	10	0.009701	0.002369	0.00346	Yes	23.73	9	0.00475	62.1	Yes
+wg rh intensity-contrast parsopercularis → AUD	cortical grey-white contrast	substance use	21	n.s.	Yes	2 / 6	No	20	-0.004903	0.003661	0.197	No	55.25	19	2.13e-05	65.6	Yes
+wg rh intensity-contrast parsopercularis → MDD	cortical grey-white contrast	internalizing	21	n.s.	Yes	1 / 6	No	17	-0.002776	0.005913	0.645	No	 52.7	16	8.43e-06	69.6	Yes
+wg rh intensity-contrast parstriangularis → AUD	cortical grey-white contrast	substance use	20	No	Yes	3 / 6	No	20	-0.0009605	0.003476	0.785	No	27.45	19	0.0947	30.8	No
+wg rh intensity-contrast posteriorcingulate → AUD	cortical grey-white contrast	substance use	18	n.s.	Yes	3 / 6	No	17	-0.003404	0.004329	0.444	No	48.56	16	3.88e-05	67.0	Yes
+wg rh intensity-contrast precentral → AUD	cortical grey-white contrast	substance use	13	No	Yes	5 / 6	No	13	-0.0149	0.006777	0.0503	No	112.9	12	1.59e-18	89.4	Yes
+wg rh intensity-contrast precuneus → AUD	cortical grey-white contrast	substance use	27	No	Yes	5 / 6	No	27	-0.01142	0.003355	0.00225	Yes	178.8	26	9.44e-25	85.5	Yes
+wg rh intensity-contrast precuneus → CUD	cortical grey-white contrast	substance use	27	n.s.	Yes	2 / 6	No	27	0.01079	0.005599	0.0655	No	81.14	26	1.4e-07	68.0	Yes
+wg rh intensity-contrast precuneus → MDD	cortical grey-white contrast	internalizing	27	n.s.	Yes	1 / 6	No	22	0.002336	0.003479	0.51	No	68.89	21	5.3e-07	69.5	Yes
+wg rh intensity-contrast rostralmiddlefrontal → AUD	cortical grey-white contrast	substance use	27	No	Yes	3 / 6	No	27	0.0001033	0.002489	0.967	No	66.27	26	2.28e-05	60.8	Yes
+wg rh intensity-contrast superiorfrontal → AUD	cortical grey-white contrast	substance use	24	Yes	Yes	3 / 6	Yes	23	-0.002172	0.002456	0.386	No	43.06	22	0.00464	48.9	Yes
+wg rh intensity-contrast superiorfrontal → MDD	cortical grey-white contrast	internalizing	24	n.s.	Yes	1 / 6	Yes	19	0.001069	0.003735	0.778	No	53.79	18	1.98e-05	66.5	Yes
+wg rh intensity-contrast superiorparietal → AUD	cortical grey-white contrast	substance use	25	n.s.	Yes	3 / 6	No	24	-0.01195	0.004362	0.012	Yes	170.8	23	1.51e-24	86.5	Yes
+wg rh intensity-contrast superiorparietal → MDD	cortical grey-white contrast	internalizing	25	n.s.	Yes	2 / 6	No	16	0.003904	0.004733	0.423	No	51.96	15	5.74e-06	71.1	Yes
+wg rh intensity-contrast superiortemporal → AUD	cortical grey-white contrast	substance use	29	No	Yes	4 / 6	No	29	-0.005472	0.003129	0.0917	No	168.2	28	5.97e-22	83.4	Yes
+wg rh intensity-contrast supramarginal → AUD	cortical grey-white contrast	substance use	26	No	Yes	4 / 6	Yes	26	-0.009015	0.00351	0.0169	Yes	166.3	25	7.67e-23	85.0	Yes
+wg rh intensity-contrast supramarginal → MDD	cortical grey-white contrast	internalizing	26	n.s.	Yes	1 / 6	Yes	22	0.003225	0.003391	0.353	No	73.35	21	1.01e-07	71.4	Yes
+wg rh intensity-contrast frontalpole → AUD	cortical grey-white contrast	substance use	14	No	Yes	3 / 6	Yes	14	8.036e-05	0.00303	0.979	No	11.85	13	0.54	0.0	No
+wg rh intensity-contrast insula → AUD	cortical grey-white contrast	substance use	12	No	Yes	4 / 6	Yes	11	-0.002202	0.002742	0.443	No	14.44	10	0.154	30.7	No
+IDP dMRI TBSS FA Splenium of corpus callosum → AUD	WM tract FA	substance use	13	n.s.	Yes	2 / 6	No	12	-0.002702	0.003574	0.467	No	42.87	11	1.15e-05	74.3	Yes
+IDP dMRI TBSS FA Superior cerebellar peduncle R → SCZ	WM tract FA	bd/scz	10	Yes	No	3 / 6	No	10	0.004025	0.004935	0.438	No	 20.9	9	0.0131	56.9	Yes
+IDP dMRI TBSS FA Posterior limb of internal capsule R → PTSD	WM tract FA	internalizing	11	No	Yes	2 / 6	No	11	-0.005941	0.005807	0.333	No	18.45	10	0.0478	45.8	Yes
+IDP dMRI TBSS FA Posterior limb of internal capsule R → SCZ	WM tract FA	bd/scz	11	n.s.	No	4 / 6	No	11	-0.02451	0.01042	0.0431	Yes	45.35	10	1.88e-06	77.9	Yes
+IDP dMRI ProbtrackX FA fmi → AUD	WM tract FA	substance use	14	n.s.	Yes	2 / 6	No	14	-0.007116	0.003502	0.0649	No	67.95	13	1.91e-09	80.9	Yes
+IDP dMRI ProbtrackX FA fmi → MDD	WM tract FA	internalizing	14	n.s.	Yes	1 / 6	No	12	-0.001537	0.004671	0.749	No	61.48	11	4.93e-09	82.1	Yes
+IDP dMRI ProbtrackX MO str l → MDD	WM tract MO	internalizing	12	No	Yes	2 / 6	Yes	11	-0.006609	0.003103	0.0621	No	22.76	10	0.0117	56.1	Yes
+IDP dMRI ProbtrackX MO str l → PTSD	WM tract MO	internalizing	12	Yes	Yes	2 / 6	Yes	11	-0.009618	0.004239	0.0494	Yes	 27.3	10	0.00234	63.4	Yes
+IDP dMRI TBSS MD Anterior limb of internal capsule L → PTSD	WM tract diffusivity	internalizing	11	No	Yes	3 / 6	No	10	-0.005827	0.005642	0.332	No	15.57	9	0.0765	42.2	No
+IDP dMRI TBSS MD Anterior corona radiata R → AUD	WM tract diffusivity	substance use	10	Yes	Yes	3 / 6	No	10	0.001378	0.003209	0.679	No	28.52	9	0.000782	68.4	Yes
+IDP dMRI TBSS MD Anterior corona radiata L → AUD	WM tract diffusivity	substance use	12	Yes	Yes	3 / 6	Yes	12	0.002845	0.002926	0.354	No	30.64	11	0.00125	64.1	Yes
+IDP dMRI TBSS MD Anterior corona radiata L → MDD	WM tract diffusivity	internalizing	12	Yes	Yes	2 / 6	Yes	12	0.002184	0.003477	0.544	No	33.92	11	0.000372	67.6	Yes
+IDP dMRI TBSS MD Sagittal stratum L → MDD	WM tract diffusivity	internalizing	13	n.s.	Yes	1 / 6	No	12	0.001063	0.002856	0.718	No	30.17	11	0.00149	63.5	Yes
+IDP dMRI TBSS MD Superior longitudinal fasciculus L → BD	WM tract diffusivity	bd/scz	12	Yes	Yes	2 / 6	No	11	0.002334	0.006843	0.741	No	36.27	10	7.55e-05	72.4	Yes
+IDP dMRI TBSS L2 Posterior limb of internal capsule R → MDD	WM tract diffusivity	internalizing	14	n.s.	Yes	2 / 6	No	12	0.01091	0.005878	0.0931	No	32.91	11	0.000543	66.6	Yes
+IDP dMRI TBSS L2 Posterior limb of internal capsule L → BD	WM tract diffusivity	bd/scz	16	n.s.	Yes	1 / 6	No	15	0.001827	0.009784	0.855	No	45.41	14	3.5e-05	69.2	Yes
+IDP dMRI TBSS L3 Anterior limb of internal capsule R → TUD	WM tract diffusivity	substance use	10	n.s.	Yes	1 / 6	No	10	-0.002996	0.003347	0.397	No	23.04	9	0.0061	60.9	Yes
+IDP dMRI TBSS L3 Anterior corona radiata L → AUD	WM tract diffusivity	substance use	10	No	Yes	3 / 6	No	10	-0.0002594	0.003189	0.937	No	 17.7	9	0.0388	49.2	Yes
+IDP dMRI TBSS L3 Sagittal stratum L → MDD	WM tract diffusivity	internalizing	14	n.s.	No	2 / 6	No	13	-0.003242	0.003886	0.422	No	32.75	12	0.00106	63.4	Yes
+IDP dMRI TBSS L3 Superior longitudinal fasciculus R → AUD	WM tract diffusivity	substance use	14	n.s.	Yes	1 / 6	No	11	0.00561	0.006362	0.401	No	70.02	10	4.39e-11	85.7	Yes
+IDP dMRI TBSS L3 Superior longitudinal fasciculus R → MDD	WM tract diffusivity	internalizing	14	No	Yes	3 / 6	No	10	0.01008	0.01605	0.547	No	46.35	9	5.18e-07	80.6	Yes
+IDP dMRI TBSS L3 Superior longitudinal fasciculus R → TUD	WM tract diffusivity	substance use	14	n.s.	Yes	1 / 6	No	11	-0.003878	0.003429	0.287	No	32.26	10	0.000362	69.0	Yes
+IDP dMRI ProbtrackX MD fmi → MDD	WM tract diffusivity	internalizing	12	n.s.	Yes	1 / 6	No	10	0.001845	0.007065	0.801	No	33.43	9	0.000112	73.1	Yes
+IDP dMRI ProbtrackX MD slf l → AUD	WM tract diffusivity	substance use	14	n.s.	Yes	2 / 6	No	13	0.002162	0.004122	0.61	No	60.46	12	1.86e-08	80.2	Yes
+IDP dMRI ProbtrackX MD slf l → PTSD	WM tract diffusivity	internalizing	14	n.s.	Yes	2 / 6	No	11	-0.00274	0.004769	0.58	No	28.77	10	0.00136	65.2	Yes
+IDP dMRI ProbtrackX L1 slf l → AUD	WM tract diffusivity	substance use	11	n.s.	Yes	2 / 6	No	11	-0.0003811	0.003713	0.92	No	 33.5	10	0.000224	70.2	Yes
+IDP dMRI ProbtrackX L2 fmi → AUD	WM tract diffusivity	substance use	15	n.s.	Yes	2 / 6	No	14	0.0004407	0.002527	0.864	No	29.61	13	0.00535	56.1	Yes
+IDP dMRI ProbtrackX L2 fmi → MDD	WM tract diffusivity	internalizing	15	Yes	Yes	2 / 6	No	12	-0.004082	0.003653	0.29	No	 33.9	11	0.000376	67.5	Yes
+IDP dMRI ProbtrackX L3 fmi → MDD	WM tract diffusivity	internalizing	14	Yes	Yes	3 / 6	No	11	-0.003343	0.003877	0.411	No	31.54	10	0.000477	68.3	Yes
+IDP dMRI ProbtrackX L3 ifo l → BD	WM tract diffusivity	bd/scz	12	Yes	No	3 / 6	No	10	-0.0001635	0.009311	0.986	No	17.06	9	0.0478	47.2	Yes
+IDP dMRI ProbtrackX L3 ilf r → MDD	WM tract diffusivity	internalizing	12	n.s.	Yes	1 / 6	No	10	-0.01645	0.008343	0.0842	No	49.76	9	1.19e-07	81.9	Yes
+IDP dMRI TBSS ICVF Genu of corpus callosum → MDD	WM tract ICVF	internalizing	22	n.s.	Yes	1 / 6	No	19	-0.003567	0.002972	0.246	No	80.17	18	8.01e-10	77.5	Yes
+IDP dMRI TBSS ICVF Genu of corpus callosum → PTSD	WM tract ICVF	internalizing	22	No	Yes	2 / 6	No	18	-0.0009216	0.002993	0.762	No	 40.9	17	0.000965	58.4	Yes
+IDP dMRI TBSS ICVF Body of corpus callosum → BD	WM tract ICVF	bd/scz	25	n.s.	Yes	1 / 6	No	25	-0.002625	0.00362	0.476	No	 77.8	24	1.36e-07	69.2	Yes
+IDP dMRI TBSS ICVF Body of corpus callosum → MDD	WM tract ICVF	internalizing	25	No	Yes	2 / 6	No	22	-0.00281	0.002745	0.318	No	74.67	21	6.16e-08	71.9	Yes
+IDP dMRI TBSS ICVF Splenium of corpus callosum → AUD	WM tract ICVF	substance use	20	n.s.	Yes	2 / 6	No	17	-0.001041	0.00268	0.703	No	41.52	16	0.000465	61.5	Yes
+IDP dMRI TBSS ICVF Inferior cerebellar peduncle L → ANX	WM tract ICVF	internalizing	15	n.s.	Yes	1 / 6	No	15	0.0008347	0.003855	0.832	No	41.66	14	0.00014	66.4	Yes
+IDP dMRI TBSS ICVF Superior cerebellar peduncle R → BD	WM tract ICVF	bd/scz	12	Yes	Yes	4 / 6	No	11	0.00226	0.003742	0.561	No	20.84	10	0.0222	52.0	Yes
+IDP dMRI TBSS ICVF Superior cerebellar peduncle L → BD	WM tract ICVF	bd/scz	12	Yes	No	3 / 6	No	11	-0.0004669	0.002872	0.874	No	12.68	10	0.242	21.1	No
+IDP dMRI TBSS ICVF Anterior limb of internal capsule R → BD	WM tract ICVF	bd/scz	14	n.s.	Yes	1 / 6	No	14	-0.007479	0.006566	0.277	No	49.13	13	4.21e-06	73.5	Yes
+IDP dMRI TBSS ICVF Anterior limb of internal capsule R → MDD	WM tract ICVF	internalizing	14	n.s.	Yes	1 / 6	No	14	-0.003398	0.00463	0.477	No	 61.7	13	2.6e-08	78.9	Yes
+IDP dMRI TBSS ICVF Anterior limb of internal capsule L → BD	WM tract ICVF	bd/scz	16	n.s.	Yes	1 / 6	No	15	-0.008063	0.005134	0.14	No	43.78	14	6.42e-05	68.0	Yes
+IDP dMRI TBSS ICVF Retrolenticular part of internal capsule R → MDD	WM tract ICVF	internalizing	15	Yes	Yes	2 / 6	No	12	-0.0001165	0.002931	0.969	No	35.17	11	0.000232	68.7	Yes
+IDP dMRI TBSS ICVF Retrolenticular part of internal capsule L → AUD	WM tract ICVF	substance use	22	No	Yes	3 / 6	No	18	0.001474	0.001374	0.299	No	16.91	17	0.46	0.0	No
+IDP dMRI TBSS ICVF Retrolenticular part of internal capsule L → MDD	WM tract ICVF	internalizing	22	Yes	Yes	4 / 6	No	18	0.004761	0.002831	0.112	No	45.68	17	0.000192	62.8	Yes
+IDP dMRI TBSS ICVF Anterior corona radiata R → BD	WM tract ICVF	bd/scz	18	n.s.	Yes	1 / 6	No	18	-0.002016	0.005037	0.694	No	72.29	17	8.67e-09	76.5	Yes
+IDP dMRI TBSS ICVF Anterior corona radiata L → BD	WM tract ICVF	bd/scz	16	n.s.	Yes	1 / 6	No	16	-0.000656	0.004889	0.895	No	56.35	15	1.06e-06	73.4	Yes
+IDP dMRI TBSS ICVF Superior corona radiata L → MDD	WM tract ICVF	internalizing	14	Yes	Yes	2 / 6	No	11	-0.0017	0.003561	0.644	No	29.44	10	0.00106	66.0	Yes
+IDP dMRI TBSS ICVF Posterior corona radiata R → AUD	WM tract ICVF	substance use	13	n.s.	Yes	1 / 6	No	11	-0.007044	0.002645	0.0259	Yes	 44.8	10	2.36e-06	77.7	Yes
+IDP dMRI TBSS ICVF Posterior corona radiata R → MDD	WM tract ICVF	internalizing	13	Yes	Yes	2 / 6	No	10	-0.003984	0.002195	0.107	No	18.27	9	0.0321	50.7	Yes
+IDP dMRI TBSS ICVF External capsule R → PTSD	WM tract ICVF	internalizing	11	n.s.	No	1 / 6	No	10	-0.002414	0.00433	0.592	No	38.53	9	1.4e-05	76.6	Yes
+IDP dMRI TBSS ICVF Cingulum hippocampus R → BD	WM tract ICVF	bd/scz	19	No	Yes	2 / 6	No	16	-0.009219	0.004716	0.0708	No	23.52	15	0.0737	36.2	No
+IDP dMRI TBSS ICVF Fornix cres+Stria terminalis R → BD	WM tract ICVF	bd/scz	14	Yes	Yes	2 / 6	No	12	-0.003913	0.006463	0.558	No	20.55	11	0.0383	46.5	Yes
+IDP dMRI TBSS ICVF Fornix cres+Stria terminalis R → MDD	WM tract ICVF	internalizing	14	n.s.	Yes	1 / 6	No	10	-0.003073	0.005563	0.596	No	30.02	9	0.000436	70.0	Yes
+IDP dMRI TBSS ICVF Fornix cres+Stria terminalis L → BD	WM tract ICVF	bd/scz	16	Yes	No	2 / 6	No	13	-0.006093	0.006959	0.4	No	22.76	12	0.0298	47.3	Yes
+IDP dMRI TBSS ICVF Fornix cres+Stria terminalis L → TUD	WM tract ICVF	substance use	16	n.s.	Yes	1 / 6	No	15	0.001013	0.001357	0.469	No	26.83	14	0.0203	47.8	Yes
+IDP dMRI ProbtrackX ICVF ar l → PTSD	WM tract ICVF	internalizing	19	Yes	Yes	3 / 6	No	18	0.002487	0.002372	0.31	No	35.43	17	0.00546	52.0	Yes
+IDP dMRI ProbtrackX ICVF atr l → BD	WM tract ICVF	bd/scz	14	n.s.	Yes	1 / 6	No	13	-0.004578	0.005028	0.382	No	46.81	12	5.03e-06	74.4	Yes
+IDP dMRI ProbtrackX ICVF atr l → MDD	WM tract ICVF	internalizing	14	Yes	Yes	2 / 6	No	13	-0.0007922	0.002841	0.786	No	39.17	12	9.87e-05	69.4	Yes
+IDP dMRI ProbtrackX ICVF atr l → SCZ	WM tract ICVF	bd/scz	14	n.s.	Yes	1 / 6	No	13	-0.01728	0.007628	0.0447	Yes	124.6	12	7.41e-21	90.4	Yes
+IDP dMRI ProbtrackX ICVF atr r → BD	WM tract ICVF	bd/scz	14	n.s.	Yes	1 / 6	No	14	-0.006188	0.004766	0.219	No	51.35	13	1.75e-06	74.7	Yes
+IDP dMRI ProbtrackX ICVF atr r → MDD	WM tract ICVF	internalizing	14	No	Yes	2 / 6	No	13	-0.001274	0.002723	0.649	No	36.39	12	0.00028	67.0	Yes
+IDP dMRI ProbtrackX ICVF atr r → SCZ	WM tract ICVF	bd/scz	14	n.s.	Yes	1 / 6	No	14	-0.0121	0.00674	0.0979	No	97.13	13	5.95e-15	86.6	Yes
+IDP dMRI ProbtrackX ICVF cst l → BD	WM tract ICVF	bd/scz	18	n.s.	Yes	1 / 6	No	18	-0.005324	0.003676	0.167	No	43.82	17	0.000364	61.2	Yes
+IDP dMRI ProbtrackX ICVF cst r → BD	WM tract ICVF	bd/scz	12	n.s.	Yes	1 / 6	No	11	-0.004639	0.004861	0.365	No	25.62	10	0.00429	61.0	Yes
+IDP dMRI ProbtrackX ICVF ifo r → AUD	WM tract ICVF	substance use	23	No	Yes	3 / 6	No	20	0.001156	0.001214	0.353	No	21.32	19	0.319	10.9	No
+IDP dMRI ProbtrackX ICVF ilf r → MDD	WM tract ICVF	internalizing	20	Yes	Yes	3 / 6	No	14	0.004302	0.004396	0.347	No	44.88	13	2.19e-05	71.0	Yes
+IDP dMRI ProbtrackX ICVF ml l → TUD	WM tract ICVF	substance use	14	No	Yes	2 / 6	No	13	0.002911	0.001735	0.122	No	 26.7	12	0.00854	55.0	Yes
+IDP dMRI ProbtrackX ICVF str r → AUD	WM tract ICVF	substance use	17	n.s.	Yes	1 / 6	No	16	-0.002265	0.002815	0.434	No	59.27	15	3.37e-07	74.7	Yes
+IDP dMRI ProbtrackX ICVF str r → BD	WM tract ICVF	bd/scz	17	No	Yes	3 / 6	No	14	0.003458	0.006037	0.577	No	   25	13	0.0231	48.0	Yes
+IDP dMRI ProbtrackX ICVF str r → TUD	WM tract ICVF	substance use	17	n.s.	Yes	1 / 6	No	17	-0.001827	0.001801	0.326	No	53.04	16	7.42e-06	69.8	Yes
+IDP dMRI TBSS OD Cerebral peduncle R → TUD	WM tract OD	substance use	12	No	Yes	4 / 6	No	12	-0.001976	0.001478	0.211	No	21.94	11	0.0248	49.9	Yes
+IDP dMRI TBSS OD Cerebral peduncle L → BD	WM tract OD	bd/scz	11	n.s.	Yes	3 / 6	No	11	-0.001079	0.008443	0.901	No	 69.1	10	6.63e-11	85.5	Yes
+IDP dMRI TBSS OD Cerebral peduncle L → MDD	WM tract OD	internalizing	11	Yes	Yes	3 / 6	No	10	0.0004132	0.003976	0.92	No	36.21	9	3.64e-05	75.1	Yes
+IDP dMRI TBSS OD Cerebral peduncle L → PTSD	WM tract OD	internalizing	11	n.s.	Yes	1 / 6	No	11	-0.0005451	0.005935	0.929	No	 56.8	10	1.46e-08	82.4	Yes
+IDP dMRI TBSS OD Cerebral peduncle L → SB	WM tract OD	suicidality	11	n.s.	No	2 / 6	No	11	0.002677	0.007498	0.729	No	69.31	10	6.03e-11	85.6	Yes
+IDP dMRI TBSS OD Anterior limb of internal capsule R → CUD	WM tract OD	substance use	12	n.s.	No	2 / 6	Yes	12	-0.008716	0.01111	0.451	No	63.72	11	1.87e-09	82.7	Yes
+IDP dMRI ProbtrackX OD slf l → ANX	WM tract OD	internalizing	11	n.s.	No	2 / 6	No	10	-0.002752	0.008118	0.743	No	43.09	9	2.07e-06	79.1	Yes
+IDP dMRI ProbtrackX ISOVF ifo r → BD	WM tract ISOVF	bd/scz	16	No	Yes	3 / 6	No	16	-0.002028	0.004607	0.666	No	19.86	15	0.177	24.5	No
+IDP dMRI ProbtrackX ISOVF ilf l → BD	WM tract ISOVF	bd/scz	18	No	Yes	3 / 6	No	18	-5.1e-05	0.003448	0.988	No	13.31	17	0.715	0.0	No
+IDP dMRI ProbtrackX ISOVF ilf r → BD	WM tract ISOVF	bd/scz	22	No	Yes	3 / 6	No	20	-0.004617	0.003115	0.156	No	19.45	19	0.428	2.3	No
+rfMRI connectivity ICA-features 2 → ADHD	rfMRI connectivity	neurodevelopmental	13	No	No	2 / 6	No	12	-0.007255	0.005827	0.242	No	16.08	11	0.138	31.6	No
+rfMRI connectivity ICA-features 2 → CUD	rfMRI connectivity	substance use	13	n.s.	No	2 / 6	No	12	0.002778	0.007475	0.718	No	44.08	11	7.02e-06	75.0	Yes
+rfMRI connectivity ICA-features 2 → SCZ	rfMRI connectivity	bd/scz	13	Yes	Yes	3 / 6	No	12	-0.01116	0.006691	0.126	No	43.62	11	8.46e-06	74.8	Yes
+rfMRI connectivity ICA-features 3 → CUD	rfMRI connectivity	substance use	12	n.s.	No	1 / 6	Yes	12	0.01028	0.008552	0.257	No	29.87	11	0.00166	63.2	Yes
+rfMRI connectivity ICA-features 3 → MDD	rfMRI connectivity	internalizing	12	n.s.	Yes	1 / 6	Yes	10	-0.0003335	0.006107	0.958	No	72.61	9	4.68e-12	87.6	Yes
+rfMRI connectivity ICA-features 3 → SCZ	rfMRI connectivity	bd/scz	12	n.s.	Yes	1 / 6	Yes	12	0.01058	0.006001	0.108	No	50.85	11	4.4e-07	78.4	Yes
+rfMRI connectivity ICA-features 6 → ANX	rfMRI connectivity	internalizing	11	No	No	3 / 6	No	10	-0.0004301	0.006524	0.949	No	21.37	9	0.0111	57.9	Yes
+rfMRI connectivity ICA-features 6 → SCZ	rfMRI connectivity	bd/scz	11	n.s.	No	1 / 6	No	11	-0.007277	0.01324	0.596	No	78.42	10	1.02e-12	87.2	Yes
+ADHD → wg rh intensity-contrast parstriangularis	neurodevelopmental	cortical grey-white contrast	26	n.s.	No	1 / 6	Yes	26	0.007061	0.01706	0.683	No	 44.1	25	0.0106	43.3	Yes
+ADHD → IDP dMRI TBSS OD Anterior limb of internal capsule L	neurodevelopmental	WM tract OD	26	No	No	5 / 6	Yes	26	-0.009984	0.01507	0.514	No	34.06	25	0.107	26.6	No
+MDD → wg lh intensity-contrast parstriangularis	internalizing	cortical grey-white contrast	122	No	No	2 / 6	Yes	121	0.007668	0.006558	0.245	No	149.5	120	0.0351	19.7	Yes
+MDD → IDP dMRI TBSS OD Anterior limb of internal capsule R	internalizing	WM tract OD	122	No	No	3 / 6	Yes	121	-0.007073	0.006265	0.261	No	  134	120	0.18	10.5	No
+MDD → rfMRI connectivity ICA-features 6	internalizing	rfMRI connectivity	122	No	No	3 / 6	Yes	121	0.01438	0.006736	0.0348	Yes	160.7	120	0.00773	25.3	Yes
+PTSD → aparc-DKTatlas lh volume cuneus	internalizing	regional and tissue volume	27	n.s.	No	1 / 6	No	27	0.006818	0.01857	0.717	No	49.44	26	0.00367	47.4	Yes
+SB → wg lh intensity-contrast insula	suicidality	cortical grey-white contrast	35	No	No	3 / 6	No	34	0.02201	0.01545	0.164	No	55.39	33	0.00865	40.4	Yes
+SB → IDP dMRI TBSS FA Superior cerebellar peduncle L	suicidality	WM tract FA	35	No	No	2 / 6	No	34	0.01731	0.01362	0.213	No	41.83	33	0.139	21.1	No
+SCZ → wg lh intensity-contrast lateraloccipital	bd/scz	cortical grey-white contrast	181	Yes	No	3 / 6	No	179	0.01091	0.005892	0.0657	No	287.1	178	4e-07	38.0	Yes
+SCZ → wg rh intensity-contrast lateraloccipital	bd/scz	cortical grey-white contrast	181	Yes	No	3 / 6	No	179	0.01044	0.005626	0.0652	No	261.8	178	4.35e-05	32.0	Yes
